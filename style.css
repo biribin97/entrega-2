@@ -1,0 +1,249 @@
+h1 {
+    font-family: "Montserrat", bold;
+    text-size-adjust: 22px;
+    color: black; 
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 640px;
+    top: 10px;
+}
+.logo {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 650px;
+}
+h2 {
+    font-family: "Montserrat", bold;
+    text-size-adjust: 20px;
+    color: black;
+    position: relative;
+    left: 600px;
+    top: 175px;
+}
+    .index {
+        text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+        }
+        .index:hover {
+            text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+        }
+    .productos {
+        text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    }
+    .productos:hover {
+            text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+        }
+    .novedades {
+        text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    }
+    .novedades:hover {
+            text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+        }
+    .quienesomos {
+        text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    }
+    .quienesomos:hover {
+            text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+        }
+    .contacto {
+        text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    }
+    .contacto:hover {
+            text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+        }
+.p1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    position: relative;
+    left: 600px;
+    }
+.banner {
+    width: 1019px;
+    height: 294px;
+    position: relative;
+    left: 745px;
+    top: 50px;
+}
+.imagen {
+    width: 1024px;
+    height: 600px;
+    position: relative;
+    left: 1000px;
+    top: -150px;
+}
+li {
+    list-style: none;
+}
+
+.ul1 {
+    display: flex;
+    gap: 100px;
+    position: relative;
+    left: 700px;
+}
+.div1 {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(54, 36, 36);
+    padding: 50px;
+}
+.logo1 {
+    display: flex;
+}
+.wp {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 1100px;
+    top: -50px;
+}
+.wpdiv {
+    display: flex;
+}
+.numerowp {
+    text-decoration: none;
+    color: white;
+ font-family: "Montserrat", bold;
+ position: relative;   
+ right: 1100px;
+ top: -35px;
+}
+.ig {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 1249px;
+}
+.linkig {
+    text-decoration: none;
+    color: white;
+ font-family: "Montserrat", bold;
+ position: relative;
+ right: 1251px;
+ top: -20px;
+}
+.gmail {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    right: 1430px;
+    top: 45px;
+}
+.linkmail {
+    text-decoration: none;
+    color: white;
+ font-family: "Montserrat", bold;
+ position: relative;
+ right: 1440px;
+ top: 20px
+}
+a {
+    text-decoration: none !important;
+}
+#carouselExampleCaptions{
+width: 2000px;
+height: 850px;
+padding: 10px;
+margin: 100px;
+justify-content: center;
+position: relative;
+left: 250px;
+}
+.img11 {
+width: 2000px;
+height: 850px;
+}
+.img22 {
+   width: 2000px;
+height: 850px;
+}
+.img33 {
+   width: 2000px;
+height: 850px;
+}

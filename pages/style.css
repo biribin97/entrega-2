@@ -1,0 +1,221 @@
+.index1 {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+}
+.index1:hover {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+}
+.productos1 {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+}
+.novedades1 {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+}
+.quienesomos1 {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+}
+.contacto1 {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+}
+.productos1:hover {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+}
+.novedades1:hover {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+}
+.quienesomos1:hover {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+}
+.contacto1:hover {
+    text-decoration: none;
+        color: black;
+        font-family: "Montserrat", bold;
+        font-size: 20px;
+        border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px;
+}
+li {
+    list-style: none;
+}
+ul {
+     display: flex;
+    gap: 100px;
+    position: relative;
+    left: 700px;
+}
+h1 {
+    font-family: "Montserrat", bold;
+    text-size-adjust: 22px;
+    color: black; 
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -10px;
+    right: 590px;
+}
+.wpdiv {
+    display: flex;
+}
+.wp {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 1100px;
+    top: -50px;
+}
+.ig {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 1249px;
+}
+.gmail {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    right: 1430px;
+    top: 45px;
+}
+.numerowp {
+    text-decoration: none;
+    color: white;
+ font-family: "Montserrat", bold;
+ position: relative;   
+ right: 1100px;
+ top: -35px;
+}
+.linkig {
+    text-decoration: none;
+    color: white;
+ font-family: "Montserrat", bold;
+ position: relative;
+ right: 1251px;
+ top: -20px;
+}
+.linkmail {
+    text-decoration: none;
+    color: white;
+ font-family: "Montserrat", bold;
+ position: relative;
+ right: 1440px;
+ top: 20px
+}
+footer {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(54, 36, 36);
+    padding: 50px;
+}
+.imgprod {
+    display: flex;
+    position: relative;
+    left: 530px;
+    justify-content: center;
+    margin: 30px;
+    width: 1700px;
+    height: 1000px;
+}
+.imgnov {
+    display: flex;
+    position: relative;
+    left: 650px;
+    justify-content: center;
+    margin: 30px;
+    width: 1300px;
+    height: 800px;
+}
+.pqs {
+    display: flex;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 10px;
+    font-size: 35px;
+}
+.divqs {
+    display: flex;
+    margin: 30px;
+}
+h2 {
+    font-family: "Montserrat", bold;
+    text-size-adjust: 22px;
+    color: black; 
+}
+label {
+   color: black;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h4 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif; 
+}
